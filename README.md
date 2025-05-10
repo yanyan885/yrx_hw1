@@ -51,3 +51,15 @@
 - **解决方案**：
   - 不使用 `swap_rows` 交换指针
   - 改为逐元素交换行数据
+### 还有个死int因为c89的问题天天阴我
+### 差点忘了，还有那个输出，那个流程也是先清空这个再清空那个的，燃尽了
+![加](picture/jia.png)
+
+![减](picture/jian.png)
+![叉乘](picture/cha.png)
+![行列式](picture/hang.png)
+![迹](picture/ji.png)
+![数乘](picture/shu.png)
+![秩序](picture/zhi.png)
+![转置](picture/zhuan.png)
+![求逆](picture/ni.png)
